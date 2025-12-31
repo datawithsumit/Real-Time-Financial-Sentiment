@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 A low-latency full-stack application that visualizes real-time market sentiment. Designed to help traders identify bullish/bearish trends from unstructured news data streams with sub-100ms response times.
-
+![MarketMood Dashboard](MarketMood_AI_Dashboard.png)
 ## 🛠️ Tech Stack
 * **Frontend:** Streamlit
 * **Backend:** Python, NLTK/TextBlob
